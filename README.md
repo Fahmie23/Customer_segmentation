@@ -22,7 +22,7 @@ This project aims to develop a deep learning model that leverages the "Train.csv
 ![classification_report](https://github.com/Fahmie23/Customer_segmentation/assets/130896959/9e87c80c-9dcb-4579-800c-66456c9aafff)
 
 ## Best Accuracy and Best Loss
-![Best_Loss_Best_Accuracy](https://github.com/Fahmie23/Customer_segmentation/assets/130896959/f44e0112-20b5-4a57-9719-a13e45de3ab6)
+![Best_Loss_Best_Accuracy](https://github.com/Fahmie23/Customer_segmentation/assets/130896959/f9e70702-4375-44ee-bf05-15139f2d33cf)
 
 
 ## Credits
