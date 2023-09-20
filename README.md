@@ -1,6 +1,6 @@
 # Customer_segmentation on bank campaign 
 ## Project Description 
-This project is to create a deep learning model based on "Train.csv" dataset to predict how many people will subscribe to the focus product (Term Deposit) after the bank conducted their marketing campaign. The total data entries of this dataset is 31647.
+This project aims to develop a deep learning model that leverages the "Train.csv" dataset to forecast customer subscriptions to the bank's targeted product, Term Deposit, following a marketing campaign. The dataset contains a total of 31,647 data entries.
 
 # Architecture of the model 
 ![model](https://github.com/Fahmie23/Customer_segmentation/assets/130896959/b2f9487c-18cd-4b5a-a063-b79888783940)
